@@ -1,3 +1,0 @@
-conda env create -f enviroment.yml
-
-conda activate regionalizacao
